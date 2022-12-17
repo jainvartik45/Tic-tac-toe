@@ -7,6 +7,78 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.div1{
+  display: flex;
+ 
+}
+
+.div{
+  margin-left: 450px;
+  margin-top: 40px;
+  height: 300px;
+  width: 300px;
+ background-color: #defa60;
+  padding-left: 70px;
+  padding-top: 70px;
+}
+
+.div11{
+  height: 70px;
+  width: 70px;
+ 
+  
+  
+  border-bottom: 3px solid black;
+  cursor: pointer;
+}
+
+.div111{
+  height: 70px;
+  width: 70px;
+  
+ 
+  cursor: pointer;
+}
+
+#div1{
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+}
+
+#div2{
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+}
+
+#div3{
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+}
+.but{
+  margin-top: 20px;
+  margin-left: 60px;
+  cursor: pointer;
+  background-color:rgb(152, 175, 250) ;
+  border: 0px;
+  height: fit-content;
+  border-radius: 6px;
+}
+
+#butp{
+  font-size: larger;
+}
+.div12{
+  font-size: xx-large;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+}
+#top{
+  margin-left: 450px;
+  margin-top: 70px;
+}
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
